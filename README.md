@@ -75,7 +75,7 @@ This dashboard contains 4 Pages
 ![store analysis](https://github.com/Akashsingh1916/Codebasis-Resume-Project-Challenge-9/assets/146354971/378cba58-7ae4-4471-bae9-96be360b8028)
 
 
-**Key Matrics**
+**Key Metrics**
 
 
 ![key matrics](https://github.com/Akashsingh1916/Codebasis-Resume-Project-Challenge-9/assets/146354971/0e9e324a-b978-4ce8-a0a7-ce71b1c3952d)
